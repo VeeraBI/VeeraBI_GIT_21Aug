@@ -9,6 +9,7 @@ public class VeeraBI_GIT_21Aug_Class {
 		System.out.println("Mahinthan");
 		System.out.println("Sujith");
 		System.out.println("VeeraMeena Family");
+		System.out.println("We are Family Friends");
 		
 	}
 
