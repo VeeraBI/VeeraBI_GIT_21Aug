@@ -6,6 +6,7 @@ public class VeeraBI_GIT_21Aug_Class {
 		
 		System.out.println("Veera");
 		System.out.println("Meena");
+		System.out.println("Mahinthan");
 
 	}
 
