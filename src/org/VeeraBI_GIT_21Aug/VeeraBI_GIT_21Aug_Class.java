@@ -12,5 +12,4 @@ public class VeeraBI_GIT_21Aug_Class {
 		System.out.println("We are Family Friends");
 		
 	}
-
 }
